@@ -1,4 +1,4 @@
-text = "Mu Isamaa mu õnn ja rööm...."
+text = "Mu isamaa mu õnn ja rööm...."
 th = ["a", "e", "i", "o", "u", "õ", "ä", "ö", "ü"]
 count = 0
 for item in text:
